@@ -7,7 +7,7 @@
 
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
-![Metrics](https://metrics.lecoq.io/maaeyeng?template=classic&pagespeed=1&isocalendar=1&languages=1&topics=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FBangkok)
+![Metrics](https://metrics.lecoq.io/maaeyeng?template=classic&isocalendar=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FBangkok)
 
 
 <!--
