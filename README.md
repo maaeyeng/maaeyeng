@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Ma-ae Yeng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maaeyeng)](https://github.com/maaeyeng/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaeyeng)](https://github.com/maaeyeng/github-readme-stats)
+
+
+[![Ma-ae Yeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaeyeng)](https://github.com/maaeyeng&show_icons=true&theme=highcontrast)
+
+![Ma-ae Yeng's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaeyeng&hide=contribs,prs)
