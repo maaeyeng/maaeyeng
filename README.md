@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Mr.Ma-ae Yeng
 ---------------------------------------------
-### CEO Dev Xpress Companies. | CEO @DevXpress
+### MY Stream Technology 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maaeyeng&theme=onedark)](https://github.com/maaeyeng/github-profile-trophy)
 
